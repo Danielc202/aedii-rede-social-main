@@ -8,6 +8,8 @@ em quantos arquivos quiser dentro desta pasta.
 """
 import aedlib  # biblioteca base do projeto (obrigatória - não remova)
 
+
+
 def social_exibir_seaparador(titulo=""):
     linha = "=" * 70
     if titulo:
